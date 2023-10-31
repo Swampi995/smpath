@@ -13,12 +13,12 @@ export default function Privacy() {
         <h1>Privacy Policy</h1>
 
         <h2>1. Introduction</h2>
-        <p>Welcome to the "Race Stats" mobile application. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our app.</p>
+        <p>Welcome to the &quot;Race Stats&quot; mobile application. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our app.</p>
 
         <h2>2. Information We Collect</h2>
         <p><strong>A. Location Data</strong><br />We collect and use your location data to provide GPS-based speed tracking. This information is used solely for the purpose of displaying your real-time speed and route information while you use the app.</p>
 
-        <p><strong>B. Firebase</strong><br />When you use the Race Stats app, Firebase collects certain data, including user analytics and crash reports, to help us improve the app's functionality and performance.</p>
+        <p><strong>B. Firebase</strong><br />When you use the Race Stats app, Firebase collects certain data, including user analytics and crash reports, to help us improve the app&apos;s functionality and performance.</p>
 
         <p><strong>C. Facebook Login</strong><br />If you choose to log in using your Facebook account, we may collect your public Facebook profile information, email address, and user ID. We use this information for user authentication and account management.</p>
 
@@ -36,7 +36,7 @@ export default function Privacy() {
         <h2>4. Data Sharing and Disclosure</h2>
         <p>We may share your information in the following situations:</p>
         <ul>
-          <li>With third-party service providers, such as Firebase, to help us improve the app's functionality and performance.</li>
+          <li>With third-party service providers, such as Firebase, to help us improve the app&apos;s functionality and performance.</li>
           <li>With social media platforms (Facebook and Google) for user authentication purposes.</li>
           <li>As required by law or to protect our rights, privacy, safety, or property.</li>
         </ul>
