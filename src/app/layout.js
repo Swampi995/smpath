@@ -12,9 +12,6 @@ export const metadata = {
     description: 'Let us smooth your digital path',
     type: 'website',
   },
-  other: {
-    'fb:app_id': '2069926326678836',
-  },
 }
 
 export default function RootLayout({ children }) {
@@ -22,6 +19,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta property="fb:app_id" content="2069926326678836" />
       </head>
       <body className={`bg-night ${inter.className}`}>{children}</body>
     </html>
