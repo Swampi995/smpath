@@ -6,6 +6,15 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Smooth Path Digital',
   description: 'Let us smooth your digital path',
+  openGraph: {
+    url: 'https://www.smpath.com',
+    title: 'Smooth Path Digital',
+    description: 'Let us smooth your digital path',
+    type: 'website',
+  },
+  other: {
+    'fb:app_id': '2069926326678836',
+  },
 }
 
 export default function RootLayout({ children }) {
