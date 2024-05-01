@@ -1,0 +1,24 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "45TS85YK89.smpath.dance.cloud"
+                ],
+                "paths": [
+                    "/dancecloud/*"
+                ]
+            }
+        ]
+    },
+    "activitycontinuation": {
+        "apps": [
+            "45TS85YK89.smpath.dance.cloud"
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "45TS85YK89.smpath.dance.cloud"
+        ]
+    }
+}
