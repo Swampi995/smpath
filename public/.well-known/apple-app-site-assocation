@@ -6,7 +6,7 @@
                     "45TS85YK89.smpath.dance.cloud"
                 ],
                 "paths": [
-                    "/dancecloud/*"
+                    "*"
                 ]
             }
         ]
