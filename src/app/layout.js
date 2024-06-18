@@ -20,6 +20,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="fb:app_id" content="2069926326678836" />
+        <meta name="apple-itunes-app" content="app-id=6474421119" />
       </head>
       <body className={`bg-night ${inter.className}`}>{children}</body>
     </html>
