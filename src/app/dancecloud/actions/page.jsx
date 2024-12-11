@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
-import Icon from "./icon.png";
+import Icon from "../assets/icon.png";
 
 export default function Home() {
     const searchParams = useSearchParams();
