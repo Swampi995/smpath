@@ -20,18 +20,15 @@ export default function Privacy() {
             <p>Welcome to the <strong>Podium Picks</strong> mobile application. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our app. This policy is published by <strong>Smooth Path Digital S.R.L.</strong>, a company registered in Romania with tax ID 48772749 and headquartered at Municipiul Cluj-Napoca, Strada EUGEN IONESCO, Nr. 67, Camera 1, Bloc C, Scara 1, Etaj 4, Ap. 29, Judet Cluj.</p>
 
             <h2 className="text-xl font-bold text-gray-100 mb-4 mt-4">2. Information We Collect</h2>
-            <p className="mb-2"><strong>A. Location Data</strong><br />We collect and use your location data to provide GPS-based speed tracking. This information is used solely for the purpose of displaying your real-time speed and route information while you use the app.</p>
+            <p className="mb-2"><strong>A. Firebase</strong><br />When you use the Podium Picks app, Firebase collects certain data, including user analytics and crash reports, to help us improve the app&apos;s functionality and performance.</p>
 
-            <p className="mb-2"><strong>B. Firebase</strong><br />When you use the Podium Picks app, Firebase collects certain data, including user analytics and crash reports, to help us improve the app&apos;s functionality and performance.</p>
+            <p className="mb-2"><strong>B. Facebook Login</strong><br />If you choose to log in using your Facebook account, we may collect your public Facebook profile information, email address, and user ID. We use this information for user authentication and account management.</p>
 
-            <p className="mb-2"><strong>C. Facebook Login</strong><br />If you choose to log in using your Facebook account, we may collect your public Facebook profile information, email address, and user ID. We use this information for user authentication and account management.</p>
-
-            <p className="mb-2"><strong>D. Google Login</strong><br />If you choose to log in using your Google account, we may collect your Google account information, including your email address, profile picture, and user ID. This information is used for user authentication and account management.</p>
+            <p className="mb-2"><strong>C. Google Login</strong><br />If you choose to log in using your Google account, we may collect your Google account information, including your email address, profile picture, and user ID. This information is used for user authentication and account management.</p>
 
             <h2 className="text-xl font-bold text-gray-100 mb-4 mt-4">3. How We Use Your Information</h2>
             <p>We use the collected information for the following purposes:</p>
             <ul>
-              <li>To provide you with GPS-based speed tracking services.</li>
               <li>To improve and personalize your experience with the Podium Picks app.</li>
               <li>To facilitate user authentication through Facebook Login and Google Login.</li>
               <li>To send you important notifications related to your account or app updates.</li>
