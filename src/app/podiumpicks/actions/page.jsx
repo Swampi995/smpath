@@ -16,7 +16,7 @@ export default function Home() {
                         className="w-24 h-24 mb-4 rounded-[20px]"
                     />
                     <h1 className="text-2xl font-bold text-gray-300 mb-4">
-                        {title}
+                        Podium Picks
                     </h1>
                     <p className="text-gray-500 mb-6">
                         Experience a cleaner and more intuitive design that makes navigation and usability smoother than ever.<br />
